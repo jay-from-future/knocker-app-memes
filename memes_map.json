@@ -15,6 +15,16 @@
                         "https://raw.githubusercontent.com/jay-from-future/knocker-app-memes/main/build_finished/error/build_fail_again.png",
                         "https://raw.githubusercontent.com/jay-from-future/knocker-app-memes/main/build_finished/error/all_you_got_is_error_message.png"
                     ]
+                },
+                {
+                    "status": "SUCCESS",
+                    "imageUrls":
+                    [
+                        "https://raw.githubusercontent.com/jay-from-future/knocker-app-memes/main/build_finished/success/compile_without_errors.png",
+                        "https://raw.githubusercontent.com/jay-from-future/knocker-app-memes/main/build_finished/success/compiles_on_the_first_try.png",
+                        "https://raw.githubusercontent.com/jay-from-future/knocker-app-memes/main/build_finished/success/figured_out.png",
+                        "https://raw.githubusercontent.com/jay-from-future/knocker-app-memes/main/build_finished/success/finally_builds.png"
+                    ]
                 }
             ]
         },
@@ -31,6 +41,16 @@
                         "https://raw.githubusercontent.com/jay-from-future/knocker-app-memes/main/run_configuration_finished/error/crashes_all_at_once.png",
                         "https://raw.githubusercontent.com/jay-from-future/knocker-app-memes/main/run_configuration_finished/error/build_fail_again.png",
                         "https://raw.githubusercontent.com/jay-from-future/knocker-app-memes/main/run_configuration_finished/error/all_you_got_is_error_message.png"
+                    ]
+                },
+                {
+                    "status": "SUCCESS",
+                    "imageUrls":
+                    [
+                        "https://raw.githubusercontent.com/jay-from-future/knocker-app-memes/main/run_configuration_finished/success/code_runs_baby.png",
+                        "https://raw.githubusercontent.com/jay-from-future/knocker-app-memes/main/run_configuration_finished/success/code_runs_cat.png",
+                        "https://raw.githubusercontent.com/jay-from-future/knocker-app-memes/main/run_configuration_finished/success/code_runs_harold.png",
+                        "https://raw.githubusercontent.com/jay-from-future/knocker-app-memes/main/run_configuration_finished/success/solve_that_bug.png"
                     ]
                 }
             ]
