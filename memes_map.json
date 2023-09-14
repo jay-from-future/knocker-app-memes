@@ -1,0 +1,39 @@
+{
+    "allMemes":
+    [
+        {
+            "event": "BUILD_FINISHED",
+            "memesByStatus":
+            [
+                {
+                    "status": "ERROR",
+                    "imageUrls":
+                    [
+                        "https://raw.githubusercontent.com/jay-from-future/knocker-app-memes/main/build_finished/error/still_fails.png",
+                        "https://raw.githubusercontent.com/jay-from-future/knocker-app-memes/main/build_finished/error/start_versioning_your_career_choices.png",
+                        "https://raw.githubusercontent.com/jay-from-future/knocker-app-memes/main/build_finished/error/crashes_all_at_once.png",
+                        "https://raw.githubusercontent.com/jay-from-future/knocker-app-memes/main/build_finished/error/build_fail_again.png",
+                        "https://raw.githubusercontent.com/jay-from-future/knocker-app-memes/main/build_finished/error/all_you_got_is_error_message.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "event": "RUN_CONFIGURATION_FINISHED",
+            "memesByStatus":
+            [
+                {
+                    "status": "ERROR",
+                    "imageUrls":
+                    [
+                        "https://raw.githubusercontent.com/jay-from-future/knocker-app-memes/main/run_configuration_finished/error/still_fails.png",
+                        "https://raw.githubusercontent.com/jay-from-future/knocker-app-memes/main/run_configuration_finished/error/start_versioning_your_career_choices.png",
+                        "https://raw.githubusercontent.com/jay-from-future/knocker-app-memes/main/run_configuration_finished/error/crashes_all_at_once.png",
+                        "https://raw.githubusercontent.com/jay-from-future/knocker-app-memes/main/run_configuration_finished/error/build_fail_again.png",
+                        "https://raw.githubusercontent.com/jay-from-future/knocker-app-memes/main/run_configuration_finished/error/all_you_got_is_error_message.png"
+                    ]
+                }
+            ]
+        }
+    ]
+}
